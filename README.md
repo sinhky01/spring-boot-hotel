@@ -1,0 +1,2 @@
+# spring-boot-hotel
+example
